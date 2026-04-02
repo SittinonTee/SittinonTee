@@ -1,20 +1,14 @@
-  <p align="center">
-    <img src="./public/github_hero.svg" alt="Meet the Developer: Sittinon Chanprathum" width="100%" />
-  </p>
+<p align="center">
+  <img src="public/github_hero.svg" alt="Meet the Developer: Sittinon Chanprathum" width="100%" />
+</p>
 
-
-  - 🔭 I’m currently working on **Modern Web Applications** using **Next.js 15+** and **React 19**.
-  - 🌱 I’m currently learning **Three.js** and **Advanced Animation Libraries** like Framer Motion.
-  - 💬 Ask me about **React, TypeScript, and UI/UX Design**.
-  - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sittinon-chanprathum/)
-  - ⚡ Fun fact: I love crafting intelligent digital experiences through elegant code.
 
   ---
 
   ### 🛠 Languages and Tools:
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,threejs,framer,nodejs,express,mysql,postgres,prisma,docker,git,figma,vscode,postman,vercel" />
+      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,framer,nodejs,java,python,express,mysql,postgres,prisma,docker,git,figma,vscode,postman,vercel" />
     </a>
   </p>
 
