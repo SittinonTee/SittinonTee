@@ -1,52 +1,50 @@
-# Hi ⚡, I'm Sittinon Chanprathum
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="100" height="100" />
-</p>
+  <p align="center">
+    <img src="./public/github_hero.svg" alt="Meet the Developer: Sittinon Chanprathum" width="100%" />
+  </p>
 
-### A passionate Full-stack Developer from Thailand 🇹🇭
 
-- 🔭 I’m currently working on **Modern Web Applications** using **Next.js 15+** and **React 19**.
-- 🌱 I’m currently learning **Three.js** and **Advanced Animation Libraries** like Framer Motion.
-- 💬 Ask me about **React, TypeScript, and UI/UX Design**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sittinon-chanprathum/)
-- ⚡ Fun fact: I love crafting intelligent digital experiences through elegant code.
+  - 🔭 I’m currently working on **Modern Web Applications** using **Next.js 15+** and **React 19**.
+  - 🌱 I’m currently learning **Three.js** and **Advanced Animation Libraries** like Framer Motion.
+  - 💬 Ask me about **React, TypeScript, and UI/UX Design**.
+  - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sittinon-chanprathum/)
+  - ⚡ Fun fact: I love crafting intelligent digital experiences through elegant code.
 
----
+  ---
 
-### 🛠 Languages and Tools:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,threejs,framer,nodejs,express,mysql,postgres,prisma,docker,git,figma,vscode,postman,vercel" />
-  </a>
-</p>
+  ### 🛠 Languages and Tools:
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,threejs,framer,nodejs,express,mysql,postgres,prisma,docker,git,figma,vscode,postman,vercel" />
+    </a>
+  </p>
 
-### 📱 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/sittinon-chanprathum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sittinon-chanprathum" height="30" width="40" /></a>
-<a href="https://fb.com/your-facebook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="your-facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/your-instagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram" height="30" width="40" /></a>
-</p>
+  ### 📱 Connect with me:
+  <p align="left">
+  <a href="https://linkedin.com/in/sittinon-chanprathum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sittinon-chanprathum" height="30" width="40" /></a>
+  <a href="https://fb.com/your-facebook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="your-facebook" height="30" width="40" /></a>
+  <a href="https://instagram.com/your-instagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram" height="30" width="40" /></a>
+  </p>
 
----
+  ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SittinonTee&show_icons=true&theme=transparent&hide_border=true" alt="Sittinon's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SittinonTee&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
+  ### 📊 GitHub Stats:
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SittinonTee&show_icons=true&theme=transparent&hide_border=true" alt="Sittinon's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SittinonTee&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SittinonTee&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SittinonTee&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  </p>
 
----
+  ---
 
-### 🚀 Pinned Projects:
-- **[Portfolio V2](https://github.com/SittinonTee/portfolio-sittinon)** - My latest portfolio built with Next.js 15, Three.js, and Tailwind CSS.
-- **Movie Ticket Booking** - Java Swing based booking system.
-- **Pizza Selling System** - Java Swing based e-commerce solution.
-- **Mall Management System** - Comprehensive management tooling.
+  ### 🚀 Pinned Projects:
+  - **[Portfolio V2](https://github.com/SittinonTee/portfolio-sittinon)** - My latest portfolio built with Next.js 15, Three.js, and Tailwind CSS.
+  - **Movie Ticket Booking** - Java Swing based booking system.
+  - **Pizza Selling System** - Java Swing based e-commerce solution.
+  - **Mall Management System** - Comprehensive management tooling.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SittinonTee&label=Profile%20views&color=0e75b6&style=flat" alt="SittinonTee" />
-</p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=SittinonTee&label=Profile%20views&color=0e75b6&style=flat" alt="SittinonTee" />
+  </p>
