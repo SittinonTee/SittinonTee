@@ -1,5 +1,5 @@
   <div align="center">
-    <img src="https://github.com/SittinonTee.png" height="150" width="150" style="border-radius: 50%;" />
+    <!-- <img src="https://github.com/SittinonTee.png" height="150" width="150" style="border-radius: 50%;" /> -->
     <h3>MEET THE DEVELOPER</h3>
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=48&pause=1000&color=90C5C6&center=true&vCenter=true&width=800&lines=SITTINON+CHANPRATHUM" alt="SITTINON CHANPRATHUM" />
     <p>A software developer dedicated to learning new technologies<br/>and crafting lasting digital value.</p>
