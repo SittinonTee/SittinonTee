@@ -1,0 +1,22 @@
+<svg width="1000" height="500" viewBox="0 0 1000 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="500" fill="#000000"/>
+  <defs>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#d3f3eb;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#90c5c6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#466c82;stop-opacity:1" />
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&amp;display=swap');
+      .small-text { font-family: 'Inter', sans-serif; font-size: 16px; font-weight: 600; letter-spacing: 0.3em; fill: #888; }
+      .name-text { font-family: 'Inter', sans-serif; font-size: 80px; font-weight: 800; letter-spacing: -0.05em; fill: url(#textGradient); }
+      .subtitle-text { font-family: 'Inter', sans-serif; font-size: 22px; font-weight: 400; fill: #aaa; }
+    </style>
+  </defs>
+  
+  <text x="500" y="100" text-anchor="middle" class="small-text">MEET THE DEVELOPER</text>
+  <text x="500" y="210" text-anchor="middle" class="name-text">SITTINON</text>
+  <text x="500" y="300" text-anchor="middle" class="name-text">CHANPRATHUM</text>
+  <text x="500" y="390" text-anchor="middle" class="subtitle-text">A software developer dedicated to learning new technologies</text>
+  <text x="500" y="430" text-anchor="middle" class="subtitle-text">and crafting lasting digital value.</text>
+</svg>
