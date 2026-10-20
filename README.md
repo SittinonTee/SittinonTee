@@ -7,11 +7,33 @@
 
   ---
 
-  ### 🛠 Languages and Tools:
+  ### 💻 Languages:
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,ts,js,tailwind,html,css,nodejs,java,python,express,mysql,postgres,prisma,docker,git,figma,vscode,postman,vercel" />
+      <img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css" />
     </a>
+  </p>
+
+  ### 🚀 Frameworks & Libraries:
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,tailwind,nodejs,express,mysql,postgres,prisma" />
+    </a>
+  </p>
+
+  ### 🛠 Tools & Platforms:
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=docker,git,figma,vscode,postman,vercel" />
+    </a>
+  </p>
+
+  ### 🤖 AI Tools:
+  <p align="left">
+    <a href="https://openai.com" target="blank"><img src="https://img.shields.io/badge/Codex-10a37f?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" /></a>
+    <a href="https://claude.ai" target="blank"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /></a>
+    <a href="https://gemini.google.com" target="blank"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /></a>
+    <a href="https://v0.dev" target="blank"><img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=v0&logoColor=white" alt="v0" /></a>
   </p>
 
   ### 📱 Connect with me
